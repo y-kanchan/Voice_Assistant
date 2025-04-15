@@ -70,6 +70,7 @@ python voice_assistant.py
 ```
 🎙️ Speak clearly into your microphone to interact with the assistant.
 
+---
 
 ### 📦 Requirements
 - Python 3.6 or above
@@ -82,14 +83,20 @@ python voice_assistant.py
 - 
 All dependencies are listed in requirements.txt.
 
+---
+
 ### 📸 Screenshot
 
 ![start](https://github.com/user-attachments/assets/a3d788f0-d50d-419e-a4b9-e5ba4274a965)
 ![listen](https://github.com/user-attachments/assets/5b0dc4ab-e291-481b-ac19-c3ffc6493adb)
 ![time](https://github.com/user-attachments/assets/cfa53912-f575-4e0f-b407-ec090667abc6)
 
+---
+
 ### 📄 License
 This project is licensed under the MIT License. See the LICENSE file for more information.
+
+---
 
 ### 🙌 Acknowledgments
 
@@ -97,8 +104,7 @@ This project is licensed under the MIT License. See the LICENSE file for more in
 - Contributors to open-source packages used here
 - Users and developers who continue to improve voice-based technologies
 
-
-
+---
 
   
 
