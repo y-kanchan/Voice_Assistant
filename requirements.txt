@@ -1,5 +1,9 @@
-pyttsx3 
-wikipedia 
-speechrecognition 
-pyjokes  
-beautifulsoup4 
+# Requirements
+Python 3.6+
+PyQt5
+pyttsx3
+SpeechRecognition
+wikipedia
+pyjokes
+pyaudio (for microphone input)
+Install all dependencies using the requirements.txt provided.
